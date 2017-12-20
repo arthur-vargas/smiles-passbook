@@ -1,0 +1,29 @@
+{
+  "name": "smiles-passbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur-vargas/smiles-passbook.git"
+  },
+  "author": "Arthur Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur-vargas/smiles-passbook/issues"
+  },
+  "homepage": "https://github.com/arthur-vargas/smiles-passbook#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "moment": "^2.20.1",
+    "passbook": "^2.1.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
